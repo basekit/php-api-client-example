@@ -1,0 +1,16 @@
+{
+    "name": "basekit/apitest",
+    "description": "An example of using the BaseKit api to create websites",
+    "type": "project",
+    "require": {
+        "basekit/php-api-client": "^3.0.3",
+        "ircmaxell/random-lib": "^v1.2.0",
+        "vlucas/phpdotenv": "^5.5.0"
+    },
+    "authors": [
+        {
+            "name": "Mark Jeffries",
+            "email": "mark.jeffries@basekit.com"
+        }
+    ]
+}
