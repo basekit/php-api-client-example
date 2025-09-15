@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3a7e49cbf5bf3265a4d7d90b7b26de50",
+    "content-hash": "06d322e4799ae1a8b22da84372fdfadf",
     "packages": [
         {
             "name": "basekit/php-api-client",
-            "version": "3.0.3",
+            "version": "4.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/basekit/php-api-client.git",
-                "reference": "89efb9a584f036863b5cb612c07d7cf8e2134a36"
+                "reference": "bcd82c1bc18f4de81a3350df71de246394fb6cb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/basekit/php-api-client/zipball/89efb9a584f036863b5cb612c07d7cf8e2134a36",
-                "reference": "89efb9a584f036863b5cb612c07d7cf8e2134a36",
+                "url": "https://api.github.com/repos/basekit/php-api-client/zipball/bcd82c1bc18f4de81a3350df71de246394fb6cb5",
+                "reference": "bcd82c1bc18f4de81a3350df71de246394fb6cb5",
                 "shasum": ""
             },
             "require": {
@@ -53,9 +53,9 @@
             "description": "BaseKit PHP API client.",
             "support": {
                 "issues": "https://github.com/basekit/php-api-client/issues",
-                "source": "https://github.com/basekit/php-api-client/tree/3.0.3"
+                "source": "https://github.com/basekit/php-api-client/tree/4.0.0"
             },
-            "time": "2023-03-29T07:36:00+00:00"
+            "time": "2023-06-28T13:15:49+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -1544,5 +1544,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.3.0"
 }
